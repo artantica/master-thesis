@@ -1,6 +1,7 @@
 Master thesis
 
-# Deep learning models in Multilevel and Multidomain Sentiment Analysis
+# Deep models in the task of multilevel and multidomain sentiment analysis
+
 The goal  of this work is analysis of choosen machine learning methods in multilevel and multidomain sentiment analysis task. The scope of the work includes a comparison of the methods in terms of learning time, quality ot the results from thr developed methods and oparating time of model.
 
 
